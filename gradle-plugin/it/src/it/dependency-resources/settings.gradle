@@ -1,3 +1,0 @@
-rootProject.name = 'jkube-gradle-sample-dependency-resources'
-
-include 'dependency', 'dependent'
